@@ -33,14 +33,14 @@ Suivez ces étapes pour configurer le projet sur votre machine locale :
 1. Clonez le dépôt sur votre machine locale :
 
 ```
-git clone https://github.com/NdiayeOusmanaCamara/plateforme-formation-api.git
+git clone https://github.com/NdiayeOusmanaCamara/plateforme_formation_api.git
 
 ```
 
 2. Accédez au répertoire du projet :
 
 ```
-Cd plateforme-formation-api
+Cd /plateforme_formation_api
 ```
 
 3. Installez les dépendances du projet :
